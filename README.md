@@ -9,7 +9,7 @@
 ## 💼 Work Experience
 
 - **MHP – A Porsche Company**  
-  During my time at MHP, I gained valuable hands-on experience in the IT field. I developed an understanding of complex systems and worked on solutions using technologies like **Python**, **Java**, and **SQL**.
+  During my time at MHP, I gained valuable hands-on experience in the IT field. I developed an understanding of complex systems and worked on solutions using technologies like **Python**, **Java**, and **SQL**. I have also learned about **leading** IT-Projects and working as a team in complex environments.
 
 ## 🛠️ Technologies & Tools
 
